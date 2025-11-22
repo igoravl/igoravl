@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I'm the **CEO of CloudMotion**, a **Microsoft Regional Director**, and **13-time Microsoft MVP** based in Brazil. With a deep passion for helping teams level up their development practices since 2006 (yes, from the TFS days!), I specialize in DevOps, Cloud + AI, Azure, Azure DevOps, GitHub, Agile methodologies, PowerShell, and .NET. I love building tools that make developers' lives easier and have been a frequent speaker at major conferences worldwide, including Microsoft Ignite, sharing knowledge and best practices with the community.
+I'm a **Microsoft Regional Director**, and **13-time Microsoft MVP** based in Brazil. With a deep passion for helping teams level up their development practices since 2006 (yes, from the TFS days!), I specialize in DevOps, Cloud + AI, Azure, Azure DevOps, GitHub, Agile methodologies, PowerShell, and .NET. I love building tools that make developers' lives easier and have been a frequent speaker at major conferences worldwide, including Microsoft Ignite, sharing knowledge and best practices with the community.
 
 ### 🎯 What I Do
 
-- 🔨 Building powerful automation tools for Azure DevOps and Team Foundation Server
+- 🔨 Building powerful automation tools for Azure DevOps and GitHub
 - 💻 Developing PowerShell modules and .NET applications for DevOps automation
 - 🎤 Speaking at major conferences including Microsoft Build and community events worldwide
 - 📚 Helping teams implement CI/CD, infrastructure-as-code, and modern ALM practices
@@ -26,15 +26,7 @@ I'm the **CEO of CloudMotion**, a **Microsoft Regional Director**, and **13-time
 ### 🌟 [TfsCmdlets](https://github.com/igoravl/TfsCmdlets)
 PowerShell Cmdlets for Azure DevOps and Team Foundation Server - my flagship open-source project. This comprehensive PowerShell module enables DevOps automation, CI/CD pipeline management, and Azure DevOps administration through easy-to-use cmdlets.
 
-**Technologies:** PowerShell, C#, Azure DevOps API, .NET
-
-### 🐳 [AzureDevOpsContainer](https://github.com/igoravl/AzureDevOpsContainer)
-Run Azure DevOps Server with Docker Compose for development and testing environments.
-
-### 🔧 Other Notable Projects
-- **[azure-pipelines-templates](https://github.com/igoravl/azure-pipelines-templates)** - Reusable Azure Pipelines YAML templates
-- **[powershell-scripts](https://github.com/igoravl/powershell-scripts)** - Collection of useful PowerShell scripts
-- **[queue-build-widget](https://github.com/igoravl/queue-build-widget)** - Azure DevOps widget to queue builds from a dashboard
+**Technologies:** PowerShell, C#, .NET, Azure DevOps API, GitHub Actions
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -52,8 +44,7 @@ Specialties:      DevOps Automation, ALM Practices, Developer Experience,
 
 I'm a frequent speaker at major software development conferences and community events, sharing insights on DevOps, Azure, and modern development practices:
 
-- 🎯 **Microsoft Build** - Featured speaker
-- 🏆 **Microsoft Regional Director** - Part of an elite group of technology leaders
+- 🏆 **Microsoft Regional Director** - Part of a group of industry professionals recognized for their cross-platform technical expertise, community leadership, public speaking experience, online influence, and commitment to business results.
 - ⭐ **13-time Microsoft MVP** - Recognized for community leadership and technical expertise
 - 📝 **Author** - Published articles for various magazines and websites
 - 💬 Regular speaker at conferences including:
@@ -64,15 +55,11 @@ I'm a frequent speaker at major software development conferences and community e
   - Agile Brazil
   - Visual Studio Summit
   - QCon
-  - Festival da Tecnologia Microsoft
   - Microsoft Global MVP Summit
 
 ### 📍 Featured Speaking Engagements
 - **"Enhancing Developer Experience with GitHub & Backstage"** @ Microsoft Build 2025
   - Deep dive into GitHub and Backstage integration for developer portals
-- "Criando um ambiente de DevOps Self-Service" @ TDC Connections 2021
-- "Aplicando Práticas de DevOps ao Azure API Management" @ Festival MS 2021
-- "Incoming Webhooks with Azure Pipelines YAML" @ MVP Summit 2021
 
 ## 📊 GitHub Stats
 
