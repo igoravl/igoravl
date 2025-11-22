@@ -23,7 +23,7 @@ I'm a **Microsoft Regional Director** and passionate **DevOps advocate** with a 
 ## 💼 Featured Projects
 
 ### 🌟 [TfsCmdlets](https://github.com/igoravl/TfsCmdlets)
-PowerShell Cmdlets for Azure DevOps and Team Foundation Server - my flagship open-source project with **92 stars** and **28 forks**. This comprehensive PowerShell module enables DevOps automation, CI/CD pipeline management, and Azure DevOps administration through easy-to-use cmdlets.
+PowerShell Cmdlets for Azure DevOps and Team Foundation Server - my flagship open-source project. This comprehensive PowerShell module enables DevOps automation, CI/CD pipeline management, and Azure DevOps administration through easy-to-use cmdlets.
 
 **Technologies:** PowerShell, C#, Azure DevOps API, .NET
 
@@ -56,7 +56,7 @@ I'm an active speaker and community contributor, sharing insights on DevOps, Azu
   - Microsoft Global MVP Summit
   - And many more community events
 
-### 📍 Recent Talks
+### 📍 Past Speaking Engagements
 - "Criando um ambiente de DevOps Self-Service" @ TDC Connections 2021
 - "Aplicando Práticas de DevOps ao Azure API Management" @ Festival MS 2021
 - "Incoming Webhooks with Azure Pipelines YAML" @ MVP Summit 2021
@@ -69,7 +69,7 @@ I'm an active speaker and community contributor, sharing insights on DevOps, Azu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igoravl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igoravl&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=igoravl&theme=tokyonight&hide_border=true)
 
 </div>
 
