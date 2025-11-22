@@ -43,8 +43,7 @@ Languages:        PowerShell, C#, JavaScript, TypeScript, .NET
 Platforms:        Azure, Azure DevOps, GitHub, Docker, Backstage
 Methodologies:    DevOps, Agile, CI/CD, Infrastructure-as-Code
 Technical Areas:  Cloud + AI, DevOps, Client Application Development
-Industry Focus:   Financial Services, Information Technology, 
-                  Retail & Consumer Goods
+Industry Focus:   Financial Services, Information Technology, Retail & Consumer Goods
 Specialties:      DevOps Automation, ALM Practices, Developer Experience,
                   API Integration, Developer Portals
 ```
@@ -69,7 +68,7 @@ I'm a frequent speaker at major software development conferences and community e
   - Microsoft Global MVP Summit
 
 ### 📍 Featured Speaking Engagements
-- **"Enhancing Developer Experience with GitHub & Backstage"** @ Microsoft Build (May 2025)
+- **"Enhancing Developer Experience with GitHub & Backstage"** @ Microsoft Build 2025
   - Deep dive into GitHub and Backstage integration for developer portals
 - "Criando um ambiente de DevOps Self-Service" @ TDC Connections 2021
 - "Aplicando Práticas de DevOps ao Azure API Management" @ Festival MS 2021
